@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "day": "10th June, 2022",
+      "text": "Go mountain climbing",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "day": "7th October, 2022",
+      "text": "Pray 20 decades of the rosary",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "day": "25th Dec, 2022",
+      "text": "Celebrate christmas with family",
+      "reminder": true
+    },
+    {
+      "text": "Apply for that Romanian Schorlaship.",
+      "day": "10th March, 2022",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
